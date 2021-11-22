@@ -1,0 +1,26 @@
+body
+{
+background-color: white;
+background-image:url("002.jpg");
+background-position:0px 759px;
+}
+
+p
+{
+width: 486px; 
+top: 130px; 
+left: 423px; 
+margin: 0; 
+text-align: justify; 
+color: white; 
+font-family: calibri; 
+font-size: 15px; 
+position: absolute;
+}
+
+
+em
+{
+color: #b70000;
+}
+
